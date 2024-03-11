@@ -7,5 +7,5 @@ package quizes.q1.lile_bzekalava_1;
  * 0.5 points
  */
 public class Assignment03 {
-
+    System.out.println("salad/suitcase/eraser"+ File.seperator+ hidden.txt)
 }
