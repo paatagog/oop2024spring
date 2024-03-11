@@ -1,4 +1,11 @@
 package quizes.q1.lile_bzekalava_1;
+package quizes.q1.lile_bzekalava_1.pan;
+package quizes.q1.lile_bzekalava_1.ball;
+
+class HappyGirl(){
+}
+class HappyBoy(){
+}
 
 
 /**
@@ -9,5 +16,7 @@ package quizes.q1.lile_bzekalava_1;
 public class Assignment02 {
     public static void main(String[] args) {
         System.out.println("This text is just for example");
+        HappyGirl happygirl = new HappyGirl();
+        HappyBoy happyboy = new HappyBoy();
     }
 }
