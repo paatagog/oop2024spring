@@ -1,3 +1,4 @@
+User
 package quizes.q1.mirian_charaia_1;
 
 
@@ -6,8 +7,15 @@ package quizes.q1.mirian_charaia_1;
  * Create classes A and B inside first and the second package accordingly
  * 1 point
 */
-public class Assignment02 {
+package quizes.q1.mirian_charaia_1.skirt;
+public class A {
     public static void main(String[] args) {
-        System.out.println("This text is just for example");
+        System.out.println("Class A in package skirt");
+    }
+}
+package quizes.q1.mirian_charaia_1.sushi;
+public class B {
+    public static void main(String[] args) {
+        System.out.println("Class B in package sushi");
     }
 }
