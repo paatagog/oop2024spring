@@ -7,5 +7,6 @@ package quizes.q1.beka_kopadze_2;
  * 0.5 points
  */
 public class Assignment03 {
-
+    String filePath = "hamster/coupe/saw" + File.separator + "hidden.txt";
+    System.out.println(filePath);
 }
