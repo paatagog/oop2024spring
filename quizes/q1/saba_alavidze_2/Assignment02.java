@@ -1,13 +1,17 @@
 package quizes.q1.saba_alavidze_2;
 
-
-/**
- * Find two packages inside this package.
- * Create classes A and B inside first and the second package accordingly
- * 1 point
-*/
 public class Assignment02 {
     public static void main(String[] args) {
         System.out.println("This text is just for example");
     }
+}
+
+package quizes.q1.saba_alavidze_2.package1;
+
+public class A {
+}
+
+package quizes.q1.saba_alavidze_2.package2;
+
+public class B {
 }
